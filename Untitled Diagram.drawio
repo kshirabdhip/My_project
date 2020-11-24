@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T05:36:38.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="IS579-IT_BZueri-JnZG" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T05:39:55.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Ugv7xLXnSXNt2I1kQUGR" version="13.10.1" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1730" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -35,7 +35,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="anNFb7LA7qd_uXROHsHw-64" value="How to solve it?&#xa;. Requirements&#xa;. Deliverables &#xa;. Project scope" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="179" y="280" width="240" height="100" as="geometry" />
+          <mxGeometry x="450" y="590" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="anNFb7LA7qd_uXROHsHw-65" value="How to solve it?&#xa;. Requirements&#xa;. Deliverables &#xa;. Project scope" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="189" y="290" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="anNFb7LA7qd_uXROHsHw-67" value="How to solve it?&#xa;. Requirements&#xa;. Deliverables &#xa;. Project scope" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="590" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="anNFb7LA7qd_uXROHsHw-68" value="How to solve it?&#xa;. Requirements&#xa;. Deliverables &#xa;. Project scope" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="590" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="anNFb7LA7qd_uXROHsHw-69" value="How to solve it?&#xa;. Requirements&#xa;. Deliverables &#xa;. Project scope" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="anNFb7LA7qd_uXROHsHw-70" value="Initiating a project" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="590" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
